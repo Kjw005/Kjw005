@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Kjw005
-- 👀 I’m interested in growing my software development and problem solving skills
+- 👋 Hi, I’m @Kjw005 (Site Reliability Engineer)
+- 👀 After a year of software development I’m interested in growing my analytics skills in manners to maximize mitigation
 - 🌱 I’m currently learning R to increase my knowledge of database integration
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
