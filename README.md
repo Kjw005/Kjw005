@@ -1,7 +1,29 @@
 - 👋 Hi, I’m @Kjw005 (Site Reliability Engineer)
+  - Deveolpment Experience
+     Professionally:
+      - .NET/C#
+      - (CS)HTML
+    
+    - Recreationally/Institutionally:
+      - Java
+      - C++
+    
+    - Database Querying:
+      - SQL
+      - R
+     
+  - Site Reliability Experience:
+    - Python
+    - Robot
+
+    Monitoring and alerting through the deployment of Monika and Promethus interfacing with Grafana.
+      
 - 👀 After a year of software development I’m interested in growing my analytics skills in manners to maximize mitigation
-- 🌱 I’m currently learning R to increase my knowledge of database integration
-- 💞️ I’m looking to collaborate on ...
+  
+- 🌱 I’m currently working on a few projects, Gaming, visuals, Music, Automations.
+  
+- 💞️ I’m looking to collaborate on works involving frontend, backend, or database connections.
+  
 - 📫 How to reach me ...
 
 <!---
