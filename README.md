@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kjw005 (Site Reliability Engineer)
+- 👋 Hi, I’m @Kjw005 (Currently: Site Reliability Engineer)
   - Deveolpment Experience
      Professionally:
       - .NET/C#
