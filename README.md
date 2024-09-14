@@ -18,13 +18,13 @@
 
     Monitoring and alerting through the deployment of Monika and Promethus interfacing with Grafana.
       
-- 👀 After a year of software development I’m interested in growing my analytics skills in manners to maximize mitigation
+- 👀 After a year of software development I've established a role as an SRE. I’m interested in growing my analytics skills in manners to maximize mitigation
   
-- 🌱 I’m currently working on a few projects, Gaming, visuals, Music, Automations.
+- 🌱 I’m currently working on a few projects, Gaming, visuals, Music, Automations. Still doing this!
   
 - 💞️ I’m looking to collaborate on works involving frontend, backend, or database connections.
   
-- 📫 How to reach me ...
+- 📫 How to reach me ... Telepathically... or LinkedIn <insert link here>
 
 <!---
 Kjw005/Kjw005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
